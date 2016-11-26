@@ -25,7 +25,7 @@ SECRET_KEY = 'xw$w!0^p48l^5olt@vktbyn%*3!q1-dc@0@s6b^y+r2dj(2t#q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loboloise.pythonanywhere.com']
 
 
 # Application definition
